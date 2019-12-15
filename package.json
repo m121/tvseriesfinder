@@ -1,0 +1,11 @@
+{
+  "name": "serie_master",
+  "version": "1.0.0",
+  "description": "best series of each topic",
+  "main": "index.js",
+  "author": "mateo Perez",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "4.0.0"
+  }
+}
