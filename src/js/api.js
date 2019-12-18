@@ -11,7 +11,7 @@ function searchFor(){
       return response.json();
     })
     .then(function(res) {
-      console.log(res.Search[0].Title);
+      
       addtvserie(res.Search);
     });
  }
